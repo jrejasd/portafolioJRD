@@ -1,0 +1,40 @@
+nav{
+    background-color: #051B54;
+}
+
+#inicio_sesion{
+    background-color: #FFFFFF33;
+    color: white;
+    border-radius: 30px;
+    
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#aerovia{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#texto{
+    background-color: #62DAD3;
+    
+}
+
+#foto{
+    width: 100%;
+    height: 100%;
+}
+
+#contenedor_form{
+    border-radius: 18px;
+    
+}
+
+.ingreso{
+
+    display: flex;
+    flex-direction: row;
+    
+}

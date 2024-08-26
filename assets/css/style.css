@@ -1,0 +1,106 @@
+h1{
+    border-color: red;
+    color: blue;
+    background-color: aqua;
+    justify-content: center;
+    text-align: center;
+}
+
+.bajoTitulo{
+    color: black;
+    justify-content: center;
+    text-align: center;
+    background-color: red;
+}
+#eolico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 97%;
+        
+}
+
+.tamano_card{
+    width: 100%;
+}
+
+.card-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* color: rgb(41,8,71); */
+    
+
+}
+
+
+.card-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    color: black;
+}   
+
+.card-link{
+    color: rgb(41, 8, 71);
+    font-style: normal;
+    text-decoration: none;
+    
+}
+
+.imgbw{
+    display: block;
+}
+
+.imgcolor{
+    display: none;
+}
+
+.zoom {
+    transform: scale(0.8);
+}
+
+.nav-item{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h5{
+    font-size: xx-large;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.list-group-item{
+    font-size: small;
+    font-style: italic;
+    color: red;
+    
+}
+
+.card img {
+    transition: transform 0.3s ease-in-out;
+   
+}
+
+.contacto {
+    width: 80%;
+    background-color: blue;
+    padding-top: 10px;
+    margin-top: 5px;
+    align-items: center;
+    
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    background-color: #4682b4;
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
